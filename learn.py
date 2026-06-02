@@ -1,1 +1,2 @@
-print("Hiii!! I am Gayathri")
+name="Aadvi"
+print(f"Hiii!! {name}")
